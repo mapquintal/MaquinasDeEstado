@@ -1,1 +1,6 @@
 C:\Users\rsay\Source\Repos\MaquinasDeEstado\MaquinasDeEstado\Simples\bin\Debug\Simples.exe.config
+C:\Users\rsay\Source\Repos\MaquinasDeEstado\MaquinasDeEstado\Simples\bin\Debug\Simples.exe
+C:\Users\rsay\Source\Repos\MaquinasDeEstado\MaquinasDeEstado\Simples\bin\Debug\Simples.pdb
+C:\Users\rsay\Source\Repos\MaquinasDeEstado\MaquinasDeEstado\Simples\obj\Debug\Simples.csprojResolveAssemblyReference.cache
+C:\Users\rsay\Source\Repos\MaquinasDeEstado\MaquinasDeEstado\Simples\obj\Debug\Simples.exe
+C:\Users\rsay\Source\Repos\MaquinasDeEstado\MaquinasDeEstado\Simples\obj\Debug\Simples.pdb
